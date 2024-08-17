@@ -16,7 +16,7 @@ const HomeLanding = () => {
           <div className="flex-1 flex flex-col items-start justify-start pt-0.5 px-0 pb-0 box-border min-w-[168px]">
             <div className="self-stretch flex flex-row items-start justify-start gap-[25px]">
               <div className="relative leading-[24px] inline-block min-w-[86px]">
-                BookChainS
+                BookChain 
               </div>
               <div className="flex flex-col items-start justify-start pt-px pb-0 pr-[11px] pl-0">
                 <div className="relative leading-[24px] inline-block min-w-[55px]">

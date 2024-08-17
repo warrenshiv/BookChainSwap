@@ -29,14 +29,14 @@ const FrameComponent4 = ({ className = "" }) => {
                 BookChainSwap
               </h2>
             </div>
-            <button
+            {/* <button
               className="cursor-pointer [border:none] py-[11px] px-3 bg-cadetblue-100 rounded overflow-hidden flex flex-row items-start justify-start whitespace-nowrap hover:bg-cadetblue-200"
               onClick={onConnectWalletClick}
             >
               <a className="[text-decoration:none] relative text-mid leading-[26px] font-inter text-white text-left inline-block min-w-[121px]">
                 Connect wallet
               </a>
-            </button>
+            </button> */}
           </div>
         </header>
         <div className="self-stretch flex flex-row items-start justify-start gap-[79px] max-w-full mq450:gap-[20px] mq1050:flex-wrap mq725:gap-[39px]">
